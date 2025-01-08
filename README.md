@@ -1,1 +1,2 @@
-# ee-242
+# EE 242
+Signals, Systems, and Data I
