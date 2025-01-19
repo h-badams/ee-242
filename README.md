@@ -14,7 +14,7 @@ To use GitHub on VS Code, ensure that you download Git on your PC. The link can 
 2. Open the folder where you want to store the repository file.
 3. Open the terminal and use the command below to clone the online repository. 
 ``` bash
-    git clone git@github.com:Angmartek/Airleaks.git
+    git *URL Here*
 ```
 4. Set the upstream path by using (where code goes when pushed):
 ``` bash
